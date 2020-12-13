@@ -1,2 +1,0 @@
-# JARVIN-AI
-I
