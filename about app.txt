@@ -1,0 +1,4 @@
+Free, fast, brightest and easy to use Flashlight app for android.
+Our app uses the built-in camera Led flash and provides the brightst light as possible.
+if your mobile device dosen't have a flash, then you can use the white screen mode, in screen mode you have multiple colour choices for your screen.
+you can use strobe light mode.
